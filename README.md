@@ -1,5 +1,5 @@
 # portfolio
-Scratch Portfolio Website
+Previous Portfolio Website
 
 As part of my web design course, I was coding a personal portfolio site from scratch.
 I realized I was able to create a better design by focusing on the design itself and not as much on the development.
